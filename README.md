@@ -1,6 +1,7 @@
-# Le-Vision: Vision-Impaired Assistance Application
-
-Le-Vision is a Next.js-based application designed to assist vision-impaired users in navigating the world and completing tasks. The application streams video from the user's webcam, captures audio from the microphone, and periodically captures the screen. All captured data is processed to provide real-time assistance.
+# Le-Vision: Vision-Impaired Assistance Application 
+### Mistral Track
+Le-Vision was created to assist vision-impaired users in navigating the world and completing tasks. The application streams video from the user's camera, captures audio from the microphone, and periodically captures the screen. 
+All captured data is processed using Mistrals Pixtral to provide real-time assistance.
 
 ## Features
 
